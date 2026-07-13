@@ -39,13 +39,7 @@ Temperature-Converter/
 - Celsius → Kelvin: `°C + 273.15`
 - Kelvin → Celsius: `K − 273.15`
 
-## 📸 Screenshot
-Add a screenshot of your project here after deployment.
+
 
 ## 👩‍💻 Author
-**Punam Simi**
-
-GitHub: https://github.com/yourusername
-
-## 📄 License
-This project is created for educational purposes.
+**Purnima Malik
